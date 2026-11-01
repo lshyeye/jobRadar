@@ -1,0 +1,20 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 本地环境变量（LLM key 等一律走环境变量，不入库）
+.env
+.env.local
+*.env
+
+# 真实脱敏映射表：含真实公司名，禁止提交
+config/pii_map.local.json
+
+# 本地采集产物（未脱敏，不入库）
+data/_raw/
+*.log
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
