@@ -288,17 +288,90 @@ def verify(cfg: dict[str, Any]) -> int:
     return 0
 
 
+def check_partial(cfg: dict[str, Any], min_len: int = 2) -> int:
+    """扫描「完整短语映射了、但裸词残留」的泄漏。
+
+    为什么单独做这一步：`--verify` 只按映射表里的**完整**源字符串比对，
+    完全查不到这一类残留。实测踩到的例子：
+
+        映射表：魔方技术中心 → 某技术中心；魔方工作室 → 某工作室
+        数据里：魔方IP衍生品-渠道运营 / 魔方海外发行经理 / 魔方市场用户研究经理
+
+    `魔方技术中心` 一个都没命中，所以 `--verify` 一路报 OK，裸词「魔方」留在标题里。
+
+    做法：对每个源 token 取所有前后缀（长度 ≥ min_len），再扫一遍产物。
+
+    精度处理（第一版没做，报了 82 条噪音，没法用）：
+    - 纯 ASCII 碎片要求 ≥5 字符且必须有词边界，否则 `ll` 会命中 `Supercell` 自己；
+    - 含中日韩字符的碎片按 2 字符起判，这类碎片的误报是「通用词」而不是噪音；
+    - 每个碎片只报一次，并附一段上下文——**这一步是给人复核的，不是自动判定**。
+    """
+    replacements = {str(b) for _, b in derive_tokens(cfg)}
+    fragments: dict[str, str] = {}
+    for raw, _ in cfg.get("tokens", []):
+        token = str(raw)
+        for size in range(min_len, len(token)):
+            for frag in (token[:size], token[-size:]):
+                if frag in replacements or frag == token:
+                    continue
+                fragments.setdefault(frag, token)
+
+    ascii_frag = re.compile(r"^[\x00-\x7f]+$")
+
+    def is_meaningful(frag: str) -> bool:
+        return bool(ascii_frag.match(frag)) and len(frag) < 5
+
+    reports: list[tuple[str, str, str]] = []
+    for path in TARGETS:
+        if not path.exists():
+            continue
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        blob = "\n".join(iter_strings(payload))
+        for frag, token in fragments.items():
+            if is_meaningful(frag):
+                continue
+            pattern = (
+                re.compile(rf"\b{re.escape(frag)}\b") if ascii_frag.match(frag) else None
+            )
+            match = pattern.search(blob) if pattern else None
+            index = match.start() if match else blob.find(frag)
+            if index < 0:
+                continue
+            context = blob[max(0, index - 18) : index + len(frag) + 18].replace("\n", " ")
+            reports.append((frag, token, f"{path.name}: …{context}…"))
+
+    if reports:
+        # 同一碎片只留一条，避免同一文件里重复出现就刷屏
+        seen: set[str] = set()
+        print(f"[可疑] {len(reports)} 处碎片可能是完整短语被截断后的残留，需人工确认：")
+        for frag, token, where in sorted(reports, key=lambda r: r[0]):
+            if frag in seen:
+                continue
+            seen.add(frag)
+            print(f"  {frag:10s} （源：{token}）{where}")
+        return 1
+    print("[OK] 未发现前后缀碎片残留。")
+    return 0
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="JobRadar 数据脱敏脚本")
     ap.add_argument("--map", default="config/pii_map.local.json", help="映射表路径")
     ap.add_argument("--dry-run", action="store_true", help="只统计不写盘")
     ap.add_argument("--verify", action="store_true", help="扫描残留真实名称")
+    ap.add_argument(
+        "--check-partial",
+        action="store_true",
+        help="扫描「完整短语已映射、裸词残留」的碎片（--verify 查不到这一类）",
+    )
     args = ap.parse_args()
 
     cfg = load_map((ROOT / args.map) if not Path(args.map).is_absolute() else Path(args.map))
 
     if args.verify:
         return verify(cfg)
+    if args.check_partial:
+        return check_partial(cfg)
 
     report = {k: 0 for k in ("company", "source", "url", "city", "title", "jobId", "advice", "meta")}
     for path in TARGETS:
