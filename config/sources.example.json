@@ -1,0 +1,49 @@
+{
+  "_comment": "数据源适配器配置示例。看板不绑定任何特定招聘站——只要产出 docs/DATA_CONTRACT.md 里定义的 JSON 契约即可。",
+  "sources": [
+    {
+      "id": "src_a",
+      "name": "数据源 A",
+      "adapter": "json_list",
+      "enabled": true,
+      "config": {
+        "listUrl": "https://api.example.com/v1/jobs?pageSize=50&page={page}",
+        "method": "GET",
+        "detailInList": true,
+        "auth": { "type": "none" },
+        "fieldMap": {
+          "title": "jobName",
+          "city": "workCity",
+          "salaryMin": "salaryMin",
+          "salaryMax": "salaryMax",
+          "postedDate": "publishTime",
+          "description": "jobDescription",
+          "url": "jobUrl"
+        }
+      }
+    },
+    {
+      "id": "src_b",
+      "name": "数据源 B（需要登录态）",
+      "adapter": "json_list",
+      "enabled": false,
+      "config": {
+        "listUrl": "https://api.example.com/jobs",
+        "method": "POST",
+        "detailInList": false,
+        "auth": { "type": "cookie", "fromEnv": "SRC_B_COOKIE" },
+        "fieldMap": {
+          "title": "positionName",
+          "city": "cityName",
+          "url": "detailUrl"
+        }
+      }
+    }
+  ],
+  "fetch": {
+    "timeoutMs": 15000,
+    "retries": 2,
+    "userAgent": "job-radar/1.0 (+personal job search tool)",
+    "transport": ["urllib", "node"]
+  }
+}

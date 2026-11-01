@@ -1,0 +1,29 @@
+{
+  "_comment": "脱敏映射表结构示例（值均为虚构）。真实映射写在 pii_map.local.json，已被 .gitignore 排除。",
+  "companies": {
+    "真实公司名": "公司A"
+  },
+  "sources": {
+    "真实数据源键": "src_a"
+  },
+  "url": {
+    "default_host": "jobs.example.com",
+    "scheme": "https"
+  },
+  "tokens": [
+    ["真实产品名", "通用业务域"],
+    ["真实游戏IP", "游戏项目"]
+  ],
+  "ip_regex": {
+    "pattern": "《[^》]{1,24}》-?",
+    "replacement": ""
+  },
+  "exact_replace": [
+    ["含公司名的整句", "通用表达"]
+  ],
+  "cities": {
+    "Beijing": "北京",
+    "北京市": "北京"
+  },
+  "scenario": "示例画像 · 前端 / 全栈 / Agent 应用开发"
+}

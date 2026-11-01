@@ -1,0 +1,463 @@
+[
+ {
+  "score": 86,
+  "company": "公司C",
+  "title": "AI Agent 全栈工程师（音视频方向）",
+  "city": "北京",
+  "posted": "2026-10-09",
+  "url": "https://jobs.example.com/src_c/8c5d65d841",
+  "advice": "值得投：Agent工程化经历高度契合，面试前重点补音视频基础概念（转码/调度/直播链路）与生产级Agent治理案例。",
+  "miss": [
+   "音视频/流媒体领域知识",
+   "生产级稳定性治理经验",
+   "大规模分布式经验"
+  ]
+ },
+ {
+  "score": 82,
+  "company": "公司C",
+  "title": "视频生成前端开发工程师（综效方向）",
+  "city": "北京",
+  "posted": "2026-09-14",
+  "url": "https://jobs.example.com/src_c/ab69b1898a",
+  "advice": "值得投：核心栈高度匹配且加分项多。面试前重点补协同编辑/富文本编辑器原理，突出Electron与AI提效经验。",
+  "miss": [
+   "在线文档/协同编辑经验",
+   "富文本编辑器开发经验"
+  ]
+ },
+ {
+  "score": 82,
+  "company": "公司C",
+  "title": "AI应用开发工程师（海外业务）-【海外业务】",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_c/bf5dae6c5c",
+  "advice": "值得投：Agent工程化作品高度契合，面试前重点补MultiAgent上下文工程案例与RAG优化细节。",
+  "miss": [
+   "MultiAgent上下文工程深度",
+   "Java生产级工程经验",
+   "深度学习科研/竞赛背景"
+  ]
+ },
+ {
+  "score": 82,
+  "company": "公司C",
+  "title": "前端研发工程师（视频生成 AI ）",
+  "city": "北京",
+  "posted": "2026-09-08",
+  "url": "https://jobs.example.com/src_c/e92f013e4c",
+  "advice": "值得投：方向契合前端+AI，面试前重点补 Vue3 组合式 API 与 Pinia/Vite 工具链细节，并整理 AIGC 相关作品亮点。",
+  "miss": [
+   "Vue3 专项年限待证明",
+   "Vite/Pinia 工具链细节",
+   "Canvas/GPU 渲染经验"
+  ]
+ },
+ {
+  "score": 80,
+  "company": "公司C",
+  "title": "全栈开发工程师（数据平台方向）-【视频生成专项】",
+  "city": "北京",
+  "posted": "2026-10-12",
+  "url": "https://jobs.example.com/src_c/a366edbab4",
+  "advice": "值得投：前端优势完全对口，AI实践是加分项；面试前重点补Java服务端与API设计案例，包装好全栈闭环项目。",
+  "miss": [
+   "Java/Spring Boot深度不足",
+   "后端API设计生产经验少",
+   "大规模性能调优经验弱"
+  ]
+ },
+ {
+  "score": 78,
+  "company": "公司A",
+  "title": "高级投放 Agent 研发工程师（北京/深圳）",
+  "city": "北京",
+  "posted": "2026-10-30",
+  "url": "https://jobs.example.com/src_a/0fcc7983ea",
+  "advice": "值得投：Agent工程化方向高度契合，面试前重点补广告投放业务链路概念与生产级可靠性案例。",
+  "miss": [
+   "广告投放业务知识",
+   "复杂任务生产级可靠性经验",
+   "大规模系统实战"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司B",
+  "title": "前端工程师",
+  "city": "北京",
+  "posted": "2026-10-28",
+  "url": "https://jobs.example.com/src_b/d333ff358e",
+  "advice": "值得投：突出AI辅助编码与Agent工具落地案例，面试前补CI/CD与前端工程化体系（Monorepo/构建优化）的系统性表述。",
+  "miss": [
+   "大型工程化体系搭建经验",
+   "CI/CD流水线重构",
+   "多端统一研发架构"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司A",
+  "title": "IM 产品-大模型应用研发工程师-（Agent Harness）",
+  "city": "北京",
+  "posted": "2026-10-28",
+  "url": "https://jobs.example.com/src_a/82a9057f06",
+  "advice": "值得投：Agent工程化方向高度契合，面试前重点补Context Engineering与长任务状态管理方案设计。",
+  "miss": [
+   "Context Engineering深度实践",
+   "大规模生产环境经验",
+   "Python工程年限较短"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司B",
+  "title": "软件开发工程师",
+  "city": "北京",
+  "posted": "2026-10-19",
+  "url": "https://jobs.example.com/src_b/907bd7cf0b",
+  "advice": "值得投：Agent工程化与MCP经验契合度高，面试前重点补A2A协议、广告业务理解和多Agent稳定性案例。",
+  "miss": [
+   "广告投放业务场景",
+   "A2A协议",
+   "多智能体性能瓶颈治理"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司B",
+  "title": "Agent架构开发",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/becbd0e6e8",
+  "advice": "值得投：Agent工程能力高度契合，短板在安全业务；面试前速补SOC/SIEM基本概念与告警研判场景，突出可观测性 Agent可迁移性。",
+  "miss": [
+   "网络安全领域背景（SOC/SIEM/EDR）",
+   "威胁检测/告警研判等安全业务理解",
+   "大规模生产级Python工程经验"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司B",
+  "title": "Agent软件工程师",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/ea62410837",
+  "advice": "值得投：Agent工程经验契合度高，面试前重点补SSE流式高并发与Java/Asyncio异步编程细节。",
+  "miss": [
+   "Java深度生产经验",
+   "高并发流式接口调优",
+   "LangChain生产项目年限"
+  ]
+ },
+ {
+  "score": 72,
+  "company": "公司C",
+  "title": "Agent Harness 开发/优化工程师-【视频生成专项】",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_c/6cc365b16f",
+  "advice": "值得投：Agent工程能力高度契合，面授前重点补视频生成技术链路(文生视频/图生视频)与Diffusion基础原理。",
+  "miss": [
+   "视频生成/多模态模型链路",
+   "多 Agent 协作与状态持久化深度",
+   "长任务并发调度生产经验"
+  ]
+ },
+ {
+  "score": 68,
+  "company": "公司B",
+  "title": "软件开发岗",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/664dc364fb",
+  "advice": "值得投：Agent研发经验契合，但需补云沙箱方案思路与电商业务场景理解，面试重点准备架构设计案例。",
+  "miss": [
+   "云沙箱/安全运行环境经验",
+   "大规模系统架构主导经验",
+   "电商采销业务场景理解"
+  ]
+ },
+ {
+  "score": 68,
+  "company": "公司B",
+  "title": "产品岗/研发岗",
+  "city": "北京",
+  "posted": "2026-09-29",
+  "url": "https://jobs.example.com/src_b/ad10f06dfe",
+  "advice": "值得投：Agent工程化与评测经验契合，但缺C端主导与指标体系经验，面试前补电商导购场景案例与数据评估方法论。",
+  "miss": [
+   "C端大规模产品主导经验",
+   "部门级技术规划/牵头能力",
+   "完整数据指标体系建设"
+  ]
+ },
+ {
+  "score": 68,
+  "company": "公司B",
+  "title": "Agent开发工程师",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/602b8708ea",
+  "advice": "值得投：Agent落地经验契合，JD接受跨行业转投；面试前重点补Java后端深度与高并发架构案例，强调Agent作品映射业务场景。",
+  "miss": [
+   "Java/Spring Boot深度不足",
+   "无高并发高可用生产经验",
+   "机器学习/深度学习训练能力"
+  ]
+ },
+ {
+  "score": 66,
+  "company": "公司B",
+  "title": "软件开发岗",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/3a7df69a9c",
+  "advice": "可以一试：主打Agent工程化与中后台经验，面试前恶补风控规则引擎与典型风险识别场景案例。",
+  "miss": [
+   "B端风控业务与规则引擎经验",
+   "风控系统整体架构设计",
+   "Workflow风控场景实战"
+  ]
+ },
+ {
+  "score": 66,
+  "company": "公司C",
+  "title": "AI应用研发工程师（效果广告）-【商业化】",
+  "city": "北京",
+  "posted": "2026-10-12",
+  "url": "https://jobs.example.com/src_c/942587796b",
+  "advice": "AI方向契合度高但Java服务端硬要求差距大，可投但建议面试前恶补JVM并发与Java工程实践，突出Agent实战成果。",
+  "miss": [
+   "5年Java深度经验",
+   "JVM/并发编程调优",
+   "大规模分布式/高并发"
+  ]
+ },
+ {
+  "score": 65,
+  "company": "公司B",
+  "title": "AI Agent开发工程师",
+  "city": "北京",
+  "posted": "2026-07-30",
+  "url": "https://jobs.example.com/src_b/70a6e1673f",
+  "advice": "值得投：Agent工程经验契合，但学历与3年LLM年限是门槛，面试前重点补Rerank策略与NLU任务实战案例。",
+  "miss": [
+   "3年NLP/LLM年限",
+   "Embedding选型+Rerank工程化",
+   "意图识别/多轮对话NLU"
+  ]
+ },
+ {
+  "score": 62,
+  "company": "公司B",
+  "title": "软件开发岗",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/0e5d9bd061",
+  "advice": "值得投：React+Agent经验契合核心，但需面试前突击Three.js与WebRTC/WebCodecs流媒体基础，准备图形学渲染原理答案。",
+  "miss": [
+   "WebGL/Three.js/Canvas图形学",
+   "WebRTC/WebCodecs/HTTP-FLV音视频",
+   "Go语言、Redis/消息队列深度"
+  ]
+ },
+ {
+  "score": 62,
+  "company": "公司C",
+  "title": "多模态大模型评测工程师-【视频生成专项】",
+  "city": "北京",
+  "posted": "2026-09-20",
+  "url": "https://jobs.example.com/src_c/bdbbda1829",
+  "advice": "值得投：JD欢迎转型者且看重工程+Agent经验。面试前补多模态评测基准与图像质量评估方法，突出评测Agent作品。",
+  "miss": [
+   "多模态/文生图模型评测经验",
+   "数据分析/A/B test经验",
+   "自动化测试平台经验"
+  ]
+ },
+ {
+  "score": 62,
+  "company": "公司B",
+  "title": "财务Agent开发",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/d1c0910a16",
+  "advice": "可投但非最优：Agent工程化经验契合，建议面试前补高并发架构案例与Redis/MySQL实践，突出可观测性诊断Agent落地成果。",
+  "miss": [
+   "3年后端生产经验",
+   "高并发低并发架构经验",
+   "MySQL/Redis生产实践"
+  ]
+ },
+ {
+  "score": 62,
+  "company": "公司A",
+  "title": "自研基座Agent评测Infra工程师（北京/上海/深圳）",
+  "city": "北京",
+  "posted": "2026-10-28",
+  "url": "https://jobs.example.com/src_a/acc20323f5",
+  "advice": "可投：Agent评测经验契合但缺Infra底座功底，面试前重点补沙箱、并发调度与Benchmark体系知识。",
+  "miss": [
+   "大规模分布式/高并发经验",
+   "沙盒环境与评测底座建设",
+   "可观测性/归因体系经验"
+  ]
+ },
+ {
+  "score": 62,
+  "company": "公司C",
+  "title": "基础设施管控平台研发工程师",
+  "city": "北京",
+  "posted": "2026-10-15",
+  "url": "https://jobs.example.com/src_c/3af8831950",
+  "advice": "可尝试投递：亮点在AI工程化与平台工具经验，但缺大规模后台与分布式经验，面试前需补分布式基础与Java/Go项目案例。",
+  "miss": [
+   "大规模后台系统生产经验",
+   "分布式系统深度经验",
+   "Java/Go主力语言"
+  ]
+ },
+ {
+  "score": 58,
+  "company": "公司C",
+  "title": "Agent 研发工程师（基础设施方向）-【视频生成专项】",
+  "city": "北京",
+  "posted": "2026-09-24",
+  "url": "https://jobs.example.com/src_c/7d731ef865",
+  "advice": "可尝试投递但偏基建岗，分布式经验是硬伤；面试前重点补任务调度、沙箱隔离与AgentBench类框架知识。",
+  "miss": [
+   "大规模分布式/调度系统落地经验",
+   "沙箱与高并发评测平台建设",
+   "可观测性/Trace系统设计"
+  ]
+ },
+ {
+  "score": 58,
+  "company": "公司C",
+  "title": "Data Agent智能体研发工程师",
+  "city": "北京",
+  "posted": "2026-10-21",
+  "url": "https://jobs.example.com/src_c/afefb14a74",
+  "advice": "可谨慎投递：Agent方向高度契合但Java后端深度不足，面试前重点补Java并发与Kafka/Redis，以Agent工程经验对冲。",
+  "miss": [
+   "精通Java/JVM与多线程",
+   "Redis/Kafka等后端中间件",
+   "高并发分布式架构经验"
+  ]
+ },
+ {
+  "score": 58,
+  "company": "公司C",
+  "title": "商业化AI测试开发-【海外业务】",
+  "city": "北京",
+  "posted": "2026-10-30",
+  "url": "https://jobs.example.com/src_c/f5479acf7e",
+  "advice": "Agent开发与评测是亮点但缺测试开发背景，可谨慎一投；面试前重点补自动化测试用例生成与质量左移实践案例。",
+  "miss": [
+   "测试开发体系经验",
+   "大厂测试背景",
+   "自动化测试工具链"
+  ]
+ },
+ {
+  "score": 58,
+  "company": "公司B",
+  "title": "FDE工程师",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/7808ef18fb",
+  "advice": "可投但需补客户交付经验：重点包装联调编排工具等服务客户场景，突出沟通与闭环能力。",
+  "miss": [
+   "客户现场交付全流程经验",
+   "驻场服务与需求收集经验",
+   "独立项目交付闭环经验"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司C",
+  "title": "客户端测试开发工程师（音视频）",
+  "city": "北京",
+  "posted": "2026-10-22",
+  "url": "https://jobs.example.com/src_c/a05b9d0540",
+  "advice": "可投：AI+效能方向契合是亮点，但缺音视频与测试背景，面试前需补音视频基础与测试方法论。",
+  "miss": [
+   "客户端测试流程与工具经验",
+   "音视频编解码/直播RTC知识",
+   "C++、Java实战较弱"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司C",
+  "title": "Agent Infra 研发工程师",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_c/244b7a30eb",
+  "advice": "可尝试投递：Agent方向契合但Infra偏底层，面试前重点补分布式架构与运行时/沙箱方案理解。",
+  "miss": [
+   "大规模分布式/高并发生产经验",
+   "运行时与沙箱基础设施",
+   "平台稳定性治理经验"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司B",
+  "title": "财务Agent开发",
+  "city": "北京",
+  "posted": "2026-09-07",
+  "url": "https://jobs.example.com/src_b/50daf77cad",
+  "advice": "可尝试投递：突出Agent工程化与Node.js后端经验，面试前补Python服务架构与高并发稳定性案例。",
+  "miss": [
+   "3年以上后端工程经验",
+   "高并发低延迟生产经验",
+   "MySQL/Redis深度使用"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司B",
+  "title": "软件开发岗",
+  "city": "北京",
+  "posted": "",
+  "url": "https://jobs.example.com/src_b/6fe1f11c93",
+  "advice": "可投但非高匹配：智能体经验契合，需突击补高并发/分布式架构案例（如限流、缓存、削峰）与电商交易域知识再面试。",
+  "miss": [
+   "高并发架构设计与性能优化",
+   "大规模分布式生产经验",
+   "零售电商交易系统背景"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司C",
+  "title": "多模态推理平台研发工程师-【视频生成专项】",
+  "city": "北京",
+  "posted": "2026-10-12",
+  "url": "https://jobs.example.com/src_c/d04a9787c0",
+  "advice": "可试投：Agent与可观测性经历是亮点，但学历和分布式经验是硬伤，面试前需补K8s调度与推理服务编排知识。",
+  "miss": [
+   "大规模分布式系统经验",
+   "硕士学历（JD优先要求）",
+   "容器编排/消息队列/异构调度"
+  ]
+ },
+ {
+  "score": 55,
+  "company": "公司B",
+  "title": "自动驾驶工具链开发",
+  "city": "北京",
+  "posted": "2026-09-15",
+  "url": "https://jobs.example.com/src_b/a2db28fc8c",
+  "advice": "可尝试投递但匹配一般：面试前重点补Three.js/WebGL渲染基础与自动驾驶仿真调试场景认知。",
+  "miss": [
+   "Web3D/三维引擎(Three.js等)",
+   "自动驾驶调试场景经验",
+   "渲染性能优化经验"
+  ]
+ }
+]

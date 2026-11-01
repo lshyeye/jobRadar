@@ -1,0 +1,21 @@
+{
+  "_comment": "求职画像示例。复制为 profile.json 后按自己情况改；匹配打分以这份配置为基准。",
+  "label": "示例画像 · 前端 / 全栈 / Agent 应用开发",
+  "years": 3,
+  "currentRole": "前端开发",
+  "targetRoles": ["Agent 应用开发", "全栈", "前端"],
+  "targetCities": ["北京", "上海"],
+  "skills": {
+    "expert": ["TypeScript", "React", "Node.js", "Vite", "Three.js"],
+    "proficient": ["Python", "LangGraph", "MCP", "Prompt Engineering", "RAG"],
+    "familiar": ["Java", "Spring Boot", "Docker", "Kubernetes", "SQL"]
+  },
+  "dealBreakers": ["外包驻场", "长期出差", "需要 5 年以上管理经验"],
+  "weights": {
+    "skillMatch": 0.45,
+    "direction": 0.25,
+    "city": 0.15,
+    "seniority": 0.15
+  },
+  "notes": "权重之和必须为 1；规则通道按下标权重线性加权，LLM 通道把画像原文塞进 prompt。"
+}

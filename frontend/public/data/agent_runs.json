@@ -1,0 +1,205 @@
+{
+ "meta": {
+  "generatedAt": "2026-11-01 18:12:38",
+  "maxRuns": 50,
+  "schemaVersion": 1
+ },
+ "runs": [
+  {
+   "run_id": "run_20261101_181238_9cdab9",
+   "question": "市场上有多少前端岗位",
+   "started_at": "2026-11-01 18:12:38",
+   "duration_ms": 0.4,
+   "status": "ok",
+   "planner": "offline",
+   "answer": "共 914 条岗位，平均匹配分 22.1。按类型分布前五：Agent应用开发 447 条、其他 207 条、全栈 182 条、前端 78 条。",
+   "steps": [
+    {
+     "index": 1,
+     "kind": "tool",
+     "name": "market_stats",
+     "args": {
+      "group_by": "type",
+      "top": 8
+     },
+     "status": "ok",
+     "latency_ms": 0.23,
+     "summary": "4 个分组，共 914 条",
+     "result_count": 4,
+     "error": null
+    },
+    {
+     "index": 2,
+     "kind": "final",
+     "name": "compose_answer",
+     "args": {},
+     "status": "ok",
+     "latency_ms": 0,
+     "summary": "意图 market_stats",
+     "result_count": 0,
+     "error": null
+    }
+   ],
+   "usage": {}
+  },
+  {
+   "run_id": "run_20261101_181238_41b24d",
+   "question": "我现在的缺口主要是哪些，该补什么",
+   "started_at": "2026-11-01 18:12:38",
+   "duration_ms": 0.28,
+   "status": "ok",
+   "planner": "offline",
+   "answer": "在 33 条 55 分以上的岗位里，最常出现的缺口是：Java/Spring Boot深度不足（2 个岗位）、财务领域知识（2 个岗位）、3年NLP/LLM年限（1 个岗位）、3年以上后端工程经验（1 个岗位）、3年后端生产经验（1 个岗位）。",
+   "steps": [
+    {
+     "index": 1,
+     "kind": "tool",
+     "name": "skill_gaps",
+     "args": {
+      "limit": 10
+     },
+     "status": "ok",
+     "latency_ms": 0.13,
+     "summary": "聚合 33 条岗位的缺口",
+     "result_count": 10,
+     "error": null
+    },
+    {
+     "index": 2,
+     "kind": "final",
+     "name": "compose_answer",
+     "args": {},
+     "status": "ok",
+     "latency_ms": 0,
+     "summary": "意图 skill_gaps",
+     "result_count": 0,
+     "error": null
+    }
+   ],
+   "usage": {}
+  },
+  {
+   "run_id": "run_20261101_181238_01c15a",
+   "question": "各城市岗位分布情况",
+   "started_at": "2026-11-01 18:12:38",
+   "duration_ms": 0.41,
+   "status": "ok",
+   "planner": "offline",
+   "answer": "共 914 条岗位，平均匹配分 22.1。按城市分布前五：北京 624 条、深圳 126 条、杭州 48 条、上海 30 条、广州 26 条。",
+   "steps": [
+    {
+     "index": 1,
+     "kind": "tool",
+     "name": "market_stats",
+     "args": {
+      "group_by": "city",
+      "top": 8
+     },
+     "status": "ok",
+     "latency_ms": 0.23,
+     "summary": "8 个分组，共 914 条",
+     "result_count": 8,
+     "error": null
+    },
+    {
+     "index": 2,
+     "kind": "final",
+     "name": "compose_answer",
+     "args": {},
+     "status": "ok",
+     "latency_ms": 0,
+     "summary": "意图 market_stats",
+     "result_count": 0,
+     "error": null
+    }
+   ],
+   "usage": {}
+  },
+  {
+   "run_id": "run_20261101_181238_5dfc3a",
+   "question": "北京 55 分以上的 Agent 岗有哪些",
+   "started_at": "2026-11-01 18:12:38",
+   "duration_ms": 21.03,
+   "status": "ok",
+   "planner": "offline",
+   "answer": "筛到 14 条，返回前 8 条：高级投放 Agent 研发工程师（北京/深圳）（78 分）；软件开发工程师（72 分）；IM 产品-大模型应用研发工程师-（Agent Harness）（72 分） 这些岗位的高频缺口：Java/Spring Boot深度不足、财务领域知识、3年NLP/LLM年限。 最值得先看的是《高级投放 Agent 研发工程师（北京/深圳）》：值得投：Agent工程化方向高度契合，面试前重点补广告投放业务链路概念与生产级可靠性案例。",
+   "steps": [
+    {
+     "index": 1,
+     "kind": "tool",
+     "name": "search_jobs",
+     "args": {
+      "limit": 8,
+      "city": "北京",
+      "job_type": "Agent应用开发",
+      "min_score": 55,
+      "keyword": "Agent"
+     },
+     "status": "ok",
+     "latency_ms": 0.17,
+     "summary": "命中 14 条，返回 8 条",
+     "result_count": 8,
+     "error": null
+    },
+    {
+     "index": 2,
+     "kind": "tool",
+     "name": "skill_gaps",
+     "args": {
+      "min_score": 55,
+      "limit": 5
+     },
+     "status": "ok",
+     "latency_ms": 6.82,
+     "summary": "聚合 33 条岗位的缺口",
+     "result_count": 5,
+     "error": null
+    },
+    {
+     "index": 3,
+     "kind": "final",
+     "name": "compose_answer",
+     "args": {},
+     "status": "ok",
+     "latency_ms": 0,
+     "summary": "意图 search",
+     "result_count": 0,
+     "error": null
+    }
+   ],
+   "usage": {}
+  }
+ ],
+ "aggregate": {
+  "totalRuns": 4,
+  "okRuns": 4,
+  "degradedRuns": 0,
+  "toolCalls": 5,
+  "toolErrors": 0,
+  "toolSuccessRate": 1.0,
+  "avgDurationMs": 5.53,
+  "p50StepLatencyMs": 0.23,
+  "p95StepLatencyMs": 6.82,
+  "totalTokens": 0,
+  "byTool": [
+   {
+    "name": "market_stats",
+    "calls": 2,
+    "errors": 0,
+    "avgLatencyMs": 0.23
+   },
+   {
+    "name": "skill_gaps",
+    "calls": 2,
+    "errors": 0,
+    "avgLatencyMs": 3.48
+   },
+   {
+    "name": "search_jobs",
+    "calls": 1,
+    "errors": 0,
+    "avgLatencyMs": 0.17
+   }
+  ]
+ }
+}
