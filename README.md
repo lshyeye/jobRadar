@@ -6,6 +6,9 @@
 **它不是招聘网站，是给求职者自己用的决策工具。** 目标只有一个：
 从打开看板到选定 3 个要投的岗位，把耗时从「逐条翻 JD 的两小时」压到十几分钟。
 
+[**▶ 在线 Demo**](https://job-radar-dashboard-80663.app.workbuddy.host/?sharecode=X2METFHD5P) ·
+[数据契约](docs/DATA_CONTRACT.md) · [Agent 设计](docs/AGENT.md) · [产品需求](docs/PRD.md)
+
 ---
 
 ## 它解决什么问题
@@ -269,7 +272,8 @@ python scripts/anonymize.py --map config/pii_map.local.json --verify    # 校验
 1. **演示数据只有 4 个数据源**，且链接指向 `example.com`（脱敏代价，点不到真实岗位）。
 2. **规则通道不懂语义**：能判断「JD 要的技能你有没有」，判断不了团队背景、业务前景、
    隐性要求。分数的相对排序可信，绝对值参考意义有限。
-3. **看板尚未在线部署**，目前是本地 dev server。
+3. **线上 Demo 是构建产物快照**：每次更新数据后需要重新构建并发布，采集任务尚未接入线上，
+   所以页面上的数据会停在发布那一刻。
 4. **采集器不在本仓库内**（见 `pipeline/README.md`），仓库尚不完整可复现。
 5. **岗位去重未做**：同一岗位多平台发布会计两条。
 6. **Agent 离线通道只认关键词**：没有 key 时由规则规划器兜底，理解不了「我适合转岗吗」这类
@@ -279,7 +283,8 @@ python scripts/anonymize.py --map config/pii_map.local.json --verify    # 校验
 
 ## Roadmap
 
-- [ ] 部署为在线链接，手机随时可看（Now）
+- [x] 部署为在线链接，手机随时可看
+- [ ] 采集任务接入线上，让 Demo 数据自动更新（Now）
 - [x] Agent 模块：工具调用循环 + MCP server + 运行监控面板
 - [ ] 采集器收进仓库 + 离线 fixture，做到 `python run.py --offline` 三分钟可复现（Now）
 - [x] 打分引擎与前端核心逻辑的单测（Agent 层 39 个用例已覆盖）
