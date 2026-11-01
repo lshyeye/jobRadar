@@ -9,6 +9,9 @@
 [**▶ 在线 Demo**](https://job-radar-dashboard-80663.app.workbuddy.host/?sharecode=X2METFHD5P) ·
 [数据契约](docs/DATA_CONTRACT.md) · [Agent 设计](docs/AGENT.md) · [产品需求](docs/PRD.md)
 
+[**▶ 在线 Demo**](https://job-radar-dashboard-80663.app.workbuddy.host/?sharecode=X2METFHD5P) ·
+[数据契约](docs/DATA_CONTRACT.md) · [Agent 设计](docs/AGENT.md) · [产品需求](docs/PRD.md)
+
 ---
 
 ## 它解决什么问题
