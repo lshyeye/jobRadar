@@ -1,0 +1,168 @@
+{
+ "source": "src_d",
+ "page": 1,
+ "pageSize": 200,
+ "total": 16,
+ "list": [
+  {
+   "jobName": "高性能计算工程师",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/1a966214e0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Agent智能服务产品经理",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/6b15e7a3fa",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "C端AI产品经理",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/bfb39b3df9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态理解大模型算法工程师",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/87e68ec35a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "搜索推荐广告算法工程师/专家",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/2242c18ada",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态大模型算法工程师/专家（搜广推方向）",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/2690c001fc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "搜广推引擎工程师/专家",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/5a51d25a45",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大数据与分布式基础架构工程师/专家",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/0825dddd5b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "消费者服务专家【中晚班】",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/f25c29f9c9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "消费者服务专家【早班】",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/a957b34892",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "广告创意经理/市场营销经理",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/f2cc1222ec",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java工程师/专家 - 交易订单线（基础电商）",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/8e72c62b12",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java工程师/专家 - 营销中台/导购活动/百亿补贴（基础电商）",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/47b93e9482",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发工程师（支付方向）",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/97bc23943d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java工程师/专家-用户业务（基础电商）",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/9200ed4f52",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发/专家-基础电商业务架构",
+   "companyName": "公司D",
+   "workCity": "",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "",
+   "jobUrl": "https://jobs.example.com/src_d/15435af7db",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java；具备 一线城市 办公条件，3 年以上相关经验者优先。"
+  }
+ ]
+}

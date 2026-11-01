@@ -1,0 +1,81 @@
+{
+  "_comment": "离线配置：四个数据源都走 fixture 适配器，读 fixtures/ 下的接口快照。python -m pipeline --offline 默认用它。",
+  "sources": [
+    {
+      "id": "src_a",
+      "name": "数据源 A（离线快照）",
+      "adapter": "fixture",
+      "enabled": true,
+      "config": {
+        "detailInList": true,
+        "fieldMap": {
+          "title": "jobName",
+          "company": "companyName",
+          "city": "workCity",
+          "salaryMin": "salaryMin",
+          "salaryMax": "salaryMax",
+          "postedDate": "publishDate",
+          "description": "jobDescription",
+          "url": "jobUrl"
+        }
+      }
+    },
+    {
+      "id": "src_b",
+      "name": "数据源 B（离线快照）",
+      "adapter": "fixture",
+      "enabled": true,
+      "config": {
+        "detailInList": true,
+        "fieldMap": {
+          "title": "jobName",
+          "company": "companyName",
+          "city": "workCity",
+          "salaryMin": "salaryMin",
+          "salaryMax": "salaryMax",
+          "postedDate": "publishDate",
+          "description": "jobDescription",
+          "url": "jobUrl"
+        }
+      }
+    },
+    {
+      "id": "src_c",
+      "name": "数据源 C（离线快照）",
+      "adapter": "fixture",
+      "enabled": true,
+      "config": {
+        "detailInList": true,
+        "fieldMap": {
+          "title": "jobName",
+          "company": "companyName",
+          "city": "workCity",
+          "salaryMin": "salaryMin",
+          "salaryMax": "salaryMax",
+          "postedDate": "publishDate",
+          "description": "jobDescription",
+          "url": "jobUrl"
+        }
+      }
+    },
+    {
+      "id": "src_d",
+      "name": "数据源 D（离线快照）",
+      "adapter": "fixture",
+      "enabled": true,
+      "config": {
+        "detailInList": true,
+        "fieldMap": {
+          "title": "jobName",
+          "company": "companyName",
+          "city": "workCity",
+          "salaryMin": "salaryMin",
+          "salaryMax": "salaryMax",
+          "postedDate": "publishDate",
+          "description": "jobDescription",
+          "url": "jobUrl"
+        }
+      }
+    }
+  ]
+}

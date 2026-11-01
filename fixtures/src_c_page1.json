@@ -1,0 +1,2008 @@
+{
+ "source": "src_c",
+ "page": 1,
+ "pageSize": 200,
+ "total": 492,
+ "list": [
+  {
+   "jobName": "模型运营专员",
+   "companyName": "公司C",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/0f55e8e4d7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Prompt、多模态、机器学习、深度学习；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发实习生-【海外电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/5ec6ab924b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "增长算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/650dcff8f4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、LLM、多模态、机器学习、深度学习、算法、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "前端开发实习生-【国际化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/14f82998cd",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Vue；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "增长算法工程师实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/8d410f1915",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、机器学习、深度学习、算法、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外广告优化实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/72236f3302",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外应用商店优化实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/cb6cc90f54",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "内容生态策略产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/b4bd540b8d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "用户产品实习生（社交）-【海外产品】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/68cee35e0c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 多模态；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业化AI测试开发-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/f5479acf7e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、C++、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发工程师（海外商业化）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/60fbbee80c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、MySQL；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端研发工程师（动态化方向）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/6240acffd0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Java、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端开发工程师（海外用增）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/bfa50c838b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 RAG、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发工程师（海外直播）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/9dac83ef04",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、MySQL、高并发、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "广告销售实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/034aa5192a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据产品实习生-【海外商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/a2e5fc6b43",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、机器学习；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业化策略产品实习生-【海外商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/bad3c68141",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 多模态；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外商业化策略产品实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/ef70be6dff",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "产品实习生（达人变现）-【海外商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/307618b025",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外战略分析实习生-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/f08e8faaa3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2e1e9d3583",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外商业化短剧行业运营实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/e5ac7ebb01",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "金融产品实习生-【国际化金融】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/ba6e4ac6cb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Agent 策略实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/52bf47894b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外商业化广告运营实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/5804b2f1f5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "物流运营实习生-【海外电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/3fdad286ed",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外电商产品实习生（策略产品）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/874effab0d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外电商物流运营实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/5e042047ed",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外电商策略运营实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/7e8a28f718",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外增长策略产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/9843f648d7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外电商履约治理运营实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/fba41272a6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商策略实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/391657e1c3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "平台产品Leader-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/b9dc6ce3cb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "生态策略运营（负向）-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/7a2b7b6a4b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、Prompt、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "平台产品经理（运营平台向）-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/049a97cf9f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UX设计师-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2a7e41c141",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI 应用开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2fba32afb3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、RAG、Agent、Prompt、多模态、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/bb30e69975",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "测试开发工程师实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2c38197223",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 JavaScript、Java、Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端平台架构测试开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/42d3c836d6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、RAG；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI全栈开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/1fd850f08a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 TypeScript、Java、Go、Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "测试开发实习生-【海外技术】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/05f38fc5bf",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、C++、MySQL；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Android客户端开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/3455e3cb0b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/29812b6c9d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI测试Agent开发实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/09aba08186",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "语音算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/96c1b686ed",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Android客户端校招实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/dd89733e6f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、性能优化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "前端开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/cf010167d9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/78df5b5376",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型算法实习生（VLM/Multimodal方向)",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/78d67b6cf9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、Agent、算法、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI全栈开发实习生（海外业务）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/72f410a9c7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 TypeScript、Java、Go、Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/9e2ec86e2c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI应用开发后端实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/6d5b047b78",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、RAG、Agent、Prompt、多模态、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "服务端开发实习生（海外用户增长方向）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/dc9213e950",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、LLM、Agent、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "前端实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/a70afeda13",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Vue、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/3cd1eddefe",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、性能优化、机器学习、MySQL、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "产品设计实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/0772732883",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外AI内容创意实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/f58423e90f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Prompt、多模态；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UI设计实习生（北京）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/7e13cf5dcf",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外数据分析实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/e4963231fa",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UX 设计实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/0cc7895b2f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/d3eb493927",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/c5071ab113",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UI设计实习生（用户体验方向）-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/5ba097d97b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UI设计实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2df861f7e8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "内容运营实习生（直播）-【数据方向】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/36d5cf495e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "SEA消费产品策略实习",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/314a508b59",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生（商业分析方向）-【Indonesia】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/e997e76e7d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生-【MENA】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/3619c4d85e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "DA数分实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/2f6a55a627",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "内容生态策略产品实习生-【海外业务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_c/bdb1600e39",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "搜索策略产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/526303809f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "行业运营实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/5f092f6cc3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "分布式数据库研发工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/9e1465e771",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go、C++、多模态；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生-【数据平台部】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/72d1143741",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级数据研发工程师（用户增长）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/123440798d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生（流量方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/873676e22a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "产品实习生（流量策略方向）-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/0da4f4ee76",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UI设计师（AI探索方向）-【电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/c7f4371487",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态内容理解算法实习生-【算法中心】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/6cb3153ada",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、C++、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型算法工程师（引擎工程）-【算法中心】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/33867b3b2d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go、Python、C++、Rust、Docker、Kubernetes、大模型、LLM、Agent、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态大模型算法实习生-算法中心",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/cc189c2823",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、RAG、Agent、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态算法工程师（大模型方向）-【算法中心】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_c/63338a5c50",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、大模型、多模态、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "前端开发实习生（业务中台）-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/4bad9d5c24",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Vue、Angular、JavaScript、Java、性能优化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UI设计师-【研发线】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/32a7218f21",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业化行业分析师（汽车）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/dfdd78adc1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "策略产品实习生（AIGC方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/cacf74b49d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Prompt、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Infra 工程师-【游戏事业部】",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/4b729d5a9e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、性能优化、大模型、LLM、RAG、机器学习；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "风控策略实习生-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/bea7defb5a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "全栈开发实习生（大前端背景）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/7928b3c5e1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Vue、TypeScript、JavaScript、Node.js、Java、可视化、LLM、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI产品实习生-【My Flicker】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/658d85199f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、RAG、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "生产力运营专家",
+   "companyName": "公司C",
+   "workCity": "武汉",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/503f06b24b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 武汉 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Agent后端开发实习生-【MyFlicker】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/d9e4e560d3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、大模型、LLM、RAG、Agent、Prompt、算法、MySQL、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI应用开发实习生-【电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/8a0d7b7f21",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、RAG、Agent、Prompt、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "爬虫开发实习生-【电商】",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_c/4389dc8ed7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、小程序；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "推荐算法工程师 -【多业务混排】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/ad5e75a35d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、C++、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "资深AI产品经理（直播智能互动方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/1b025ed5a5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、Prompt、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商家产品实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/314bb99040",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "后端研发实习生（Java / AIGC 方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/5804b52177",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、性能优化、Agent、MySQL、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "B端产品经理（AI方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/55fd9c6cce",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化、LLM、RAG、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客开策略运营（数据方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/24d364bf48",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业化模型应用PM实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/d54b07af41",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/3a1cec9a4a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战略分析实习生（AI方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/46de94f58f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java 开发实习生（商家平台组）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/b0e5578592",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、性能优化、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业分析实习生（广告行业分析方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/a984f9396b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "广告策略产品专家（AI智能投放方向-UAX）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/15b5fbc3a1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "治理运营实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/07259383cf",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Native产品专家（AIGC对话方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/72d18a37f1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、RAG、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "B端投放策略产品经理-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/d793ea6ee9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "产品经理（交易治理方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/d01dc9c7d3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业分析师（决策支持）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/041fe75e70",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "经营分析专家（商业化方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/99d674db0a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析专家（商家产品方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/94fc256ae6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析专家（AI产品分析方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/3e77143aa8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业分析专家（经营规划）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/c7816fb3ba",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析专家（内容方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/9dbf120ec1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析专家-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/e02057f604",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析专家（线索广告方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/89cf65dc84",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业分析实习生（渠道策略���-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/ce4587498a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI内容策略实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/57494d2bc4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "治理策略专家（内容方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/a8184542bb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AIGC直播产品实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/a3c32274c6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI应用开发实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/5a0862d55a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、RAG、Agent、Prompt、多模态、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端开发实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/bb8355a493",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、C++、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "全栈研发实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/ef9a1e2811",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 TypeScript、Java、Go、Python、大模型、RAG、Agent、Prompt、算法、MySQL、Redis；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "用户运营实习生 -【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/e5cc6c8a53",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "测试开发实习生-【本地生活】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/68d5167389",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 JavaScript、Java、Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI产品经理实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/06eca23a38",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 RAG、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生（广告方向）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/46fecf607e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "规则管理运营-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/c45c53fa32",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "治理策略专家-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/e9a7333621",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客开运营实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/8e634d212c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI应用服务端开发实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/0a6962b994",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、C++、大模型、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据科学家/分析专家（应用流量方向）-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/dc5051c427",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、机器学习；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI产品经理（创新游戏向探索）-【商业化】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/c16cfc2af0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AIGC 算法实习生-【商业化算法部】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/455954dc77",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、LLM、Agent、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级逆向工程师-【视频生成】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/77f7e6f701",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、Rust、大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "广告模型算法实习生-【商业化算法部】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/7a79fb2399",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、多模态、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态大模型算法实习生",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/b61b8be301",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、深度学习、算法；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java开发工程师（治理&风控平台方向）-【电商】",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/4895131839",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、大模型、RAG、Agent、算法、MySQL、Redis、高并发、系统设计；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "全栈开发工程师（信贷方向）-【电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/ff9a9952b6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Agent、MySQL、高并发、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商品产品经理实习生",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/863cf7c58a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "商业分析专家（交易策略）-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/c7ce535bd5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI公益产品经理",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/a009744316",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "策略运营专家-【直播经营风险方向】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-27",
+   "jobUrl": "https://jobs.example.com/src_c/ab2a1a00e2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "IT工程师（视频生成）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/b0c1294057",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go、Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "渠道中台实习生-【生活服务】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/87900a8b51",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI搜索策略产品经理-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/8d5a6059ff",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "策略产品实习生（小程序）-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/3f00260cf6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "策略产品实习生（消费）-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/daff9d73fc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "搜索增长策略实习生-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/35e42b1dfb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "热点AI策略产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/6d18a4da56",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "社区互动策略产品经理（消费）-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/318526b2a7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "策略产品实习生（消费）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/60f1ba9e25",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏服务器开发工程师-【游戏事业部】",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-26",
+   "jobUrl": "https://jobs.example.com/src_c/03b7ca8c94",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go、Python、C++、性能优化、大模型、Redis、系统设计；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "机器学习算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/85f87109c8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、大模型、Agent、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业网络工程师实习生（视频生成）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/f84a53ce6f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Data Agent 产品实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/3093d6a5a8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、RAG、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大数据计算引擎SRE工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/838a66a6a1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI全栈开发实习生 -【AI生产力中心】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/f169c77c46",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、LLM、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商达人B端产品",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/1e59c9abae",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "渠道销售实习生-【电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/a5e96ec6ae",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "测试开发实习生-【电商】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-23",
+   "jobUrl": "https://jobs.example.com/src_c/9441219276",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型应用算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/cf84cd3e4b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、RAG、Agent、Prompt、多模态、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型评测实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/3e83575732",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Docker、Kubernetes、大模型、LLM、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多模态大模型算法实习生-Keye",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/44b1847f5c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型理解应用算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/769e768c55",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型AIGC算法实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/94e06f15b2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI应用开发实习生-【电商】",
+   "companyName": "公司C",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/ac64ad73ca",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、RAG、Agent、Prompt、多模态、算法；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据引擎开发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/ee6248e369",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、C++、大模型、Agent、Prompt、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Agent 后端开发实习生（推荐系统方向）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/a35302c095",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 TypeScript、Python、C++、LLM、Agent、Prompt、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "热点策略产运实习生-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/0acd678e1a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端测试开发工程师（音视频）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/a05b9d0540",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、C++、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "推荐算法工程师-【流量策略】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/dbbd7436e3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、C++、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "推荐大模型算法实习生（推荐系统）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-22",
+   "jobUrl": "https://jobs.example.com/src_c/946d74d89e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Data Agent智能体研发工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/afefb14a74",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Java、Python、性能优化、大模型、LLM、RAG、Agent、Prompt、多模态、算法、Redis；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "质量运营",
+   "companyName": "公司C",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/37045f6cc2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java 开发工程师（数据平台/数据&AI 方向）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/786ac11939",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、可视化、大模型、微服务；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发工程师（社科数据）",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/0f56384401",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、机器学习、深度学习、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析/数据科学家（AB实验）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/08b27e3635",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据挖掘工程师（核心资产）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/b303dbe515",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Java后端研发工程师/专家（实验平台）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/94f2cb7d04",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、RAG、Agent、MySQL、Redis、Kafka、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据挖掘实习生-数据资产与应用中心",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/f0eb6128b4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、C++、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级数据策略开发工程师（直播）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/50bcaa4ddd",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据产品经理-【增长方向】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/8b814bd77a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据产品经理（电商生态）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/a057766176",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "资深数据研发专家-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/f35272cea7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、机器学习、算法、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据资产算法工程师-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/5ddf5f78ac",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、大模型、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据采集工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/fab5ff5ed7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生-数据资产与应用中心",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/865abe42ea",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级数据研发工程师（直播）-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/eb8bccc905",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、机器学习、深度学习、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据分析实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/c0f199e2cb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、可视化、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大数据OLAP引擎研发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/44e40a366e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、C++、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/65dbb0d1e8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生-海外数据中心",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/bbf86fccd6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、大模型、Redis、Kafka；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生-【主站】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/de71f8871c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据研发实习生-研发数据中心",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/3137df813c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "算法策略实习生-【数据平台】",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/4a8d14e311",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Python、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "【实习】前端开发工程师",
+   "companyName": "公司C",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-21",
+   "jobUrl": "https://jobs.example.com/src_c/4684332f62",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 React、Vue、Angular、JavaScript、Java、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  }
+ ]
+}

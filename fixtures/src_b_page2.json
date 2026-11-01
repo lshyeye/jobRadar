@@ -1,0 +1,88 @@
+{
+ "source": "src_b",
+ "page": 2,
+ "pageSize": 200,
+ "total": 208,
+ "list": [
+  {
+   "jobName": "用户运营岗",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-06",
+   "jobUrl": "https://jobs.example.com/src_b/cc3dc3f2c7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "经营提升负责人",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-05",
+   "jobUrl": "https://jobs.example.com/src_b/7a905966a2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级java工程师",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-05",
+   "jobUrl": "https://jobs.example.com/src_b/d469aa7dc5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Docker、Kubernetes、MySQL、Redis、微服务、高并发、系统设计；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型算法工程师（AI Infra 高阶）",
+   "companyName": "公司B",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-04",
+   "jobUrl": "https://jobs.example.com/src_b/6a3f5fbd6c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、Agent、多模态、算法；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "轻地图高级定位算法工程师",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-04",
+   "jobUrl": "https://jobs.example.com/src_b/a79c38e20f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、C++、机器学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自动驾驶仿真测试工程师",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-03",
+   "jobUrl": "https://jobs.example.com/src_b/ebd16236f8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Python、C++、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "算法开发(（地图）",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-08-03",
+   "jobUrl": "https://jobs.example.com/src_b/6e739de8e4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Java、Go、Python、C++、机器学习、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Agent开发工程师",
+   "companyName": "公司B",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-07-30",
+   "jobUrl": "https://jobs.example.com/src_b/70a6e1673f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、RAG、Agent、Prompt、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  }
+ ]
+}

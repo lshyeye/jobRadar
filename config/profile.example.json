@@ -10,7 +10,8 @@
     "proficient": ["Python", "LangGraph", "MCP", "Prompt Engineering", "RAG"],
     "familiar": ["Java", "Spring Boot", "Docker", "Kubernetes", "SQL"]
   },
-  "dealBreakers": ["外包驻场", "长期出差", "需要 5 年以上管理经验"],
+  "_dealBreakersComment": "一票否决：命中就压到 12 分以下（规则通道按【title】整短语匹配）。在校生把「实习/校招/应届」删掉即可。像「需要 5 年以上管理经验」这种描述性条件匹配不了标题，它由年限校准和角色校准负责。",
+  "dealBreakers": ["实习", "校招", "应届", "外包驻场", "长期出差"],
   "weights": {
     "skillMatch": 0.45,
     "direction": 0.25,

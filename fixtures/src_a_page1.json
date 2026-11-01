@@ -1,0 +1,1988 @@
+{
+ "source": "src_a",
+ "page": 1,
+ "pageSize": 200,
+ "total": 198,
+ "list": [
+  {
+   "jobName": "在研项目-UE5微恐射击-后台开发（UE5 DS方向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/93b3a7f37d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 机器学习；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "效率工具-移动端高级开发工程师-深圳/北京",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/89f39e8d3b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "知名IP海外项目-游戏客户端开发-Gameplay方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/c4c74c73b0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外内容运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/93ad165e14",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "赛事策划-项目经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d169272416",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "项目经理-合作专项",
+   "companyName": "公司A",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/77c965ca9d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "效率工具-开放生态高级开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/21924ed3bc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-基础模型游戏趋势研究员-（PhD Program）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/2fe136955e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "内容平台-推荐生态产品运营",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/c5de3c3337",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座DataInfra 平台开发工程师（北京）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/91e595179c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "知名IP海外项目-游戏研发项目管理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/6a297b9107",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "版本安全运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/b0a243941a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "竞技射击手游-品牌经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/5e25c2a212",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "金融行业架构师",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/4e52622dc2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "IP视觉设计负责人",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/a3194b554a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技游戏-游戏动画师-应届生计划",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/38a2d49d20",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战斗策划-怪物方向",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d0045a644c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "在研3A修仙游戏-动画绑定师",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d50bd70934",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某技术中心-服务器测试开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/661d730558",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "效率工具-Agent Harness 算法工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/54b1ae300c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小游戏业务-大模型推荐算法工程师-商业化方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/03d74ab65d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型工程架构专家/Tech Led（深圳/北京）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/51141629c5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、多模态、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高性能网络通信库研发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/1109d22572",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "大模型存储研发工程师",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/ea8cad2c89",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "视频业务-Agent 技术负责人",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/220abcd093",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、多模态；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技游戏-产品策划（社区App）-应届生计划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/19e9019e09",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技游戏-3D角色设计师-脸型方向·BJD美型",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/f96b1b42cb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座AIGC算法研究员（多模态生成基模方向）（深圳/北京/上海）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/340d5b9ef2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "部门招聘经理-大模型方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d2323e530a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技游戏-2D美宣设计师（玩法）-应届生计划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d105daf1b6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "安全运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/f45cbd6ab8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D特效师-应届生计划",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/9444e0c123",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端开发工程师-玩法",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/bbb94d6ebd",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-大模型强化学习框架研发工程师/专家",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/a108d8f45a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、大模型、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-资深剧情策划-主笔(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/4d50b5df7c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "资深海外SLG营销",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/fee825d717",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-游戏服务端开发-DS/引擎方向(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/c904a09d19",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-游戏客户端开发工程师-系统方向(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/cb131909cc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D特效师",
+   "companyName": "公司A",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/a2b2fe09df",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-商业化策划(上海)(杭州)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/119e96218a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-运营商华中销售经理-移动",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/0dd566683a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据计算平台调度工程师​​（北京/深圳/上海/杭州）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/f7720c2480",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Kubernetes；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-运营商华北销售经理-电信/广深",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/43c2792040",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏大厅-渠道运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/24bb251420",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "研发项目经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/9086a85bb6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业协同工具-基础产品经理",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/a9497d6ae7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-产品运营-准入管理-店铺品牌准入",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/b91b9a7652",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-产品策划-平台客服",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/1da5c6d9df",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "短视频业务-推荐大模型算法工程师-短剧",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/82b2d8262a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座大模型推理研发高级工程师（深圳/北京/上海/杭州）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/cf963dcf49",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、深度学习、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端开发（战斗）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/4d23007e3b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座Agent强化学习框架工程师（深圳/北京/上海）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/60220d4897",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Infra研发工程师-上海/北京/深圳",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/d562c0b605",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-运营商西南销售经理-联通",
+   "companyName": "公司A",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/ff30ae9ae9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-产品策划-b 端产品方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/fc67cb8649",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UE5自研IP跨平台射击游戏-战斗策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/5310c88c9b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "效率工具-生态合作运营",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/b08c09fafb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级投放 Agent 研发工程师（北京/深圳）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/0fcc7983ea",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、Agent；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-大模型训练框架研发工程师/专家",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-30",
+   "jobUrl": "https://jobs.example.com/src_a/31827d2100",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小程序生态-AI Agent 算法工程师-Coding方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/d7a713aee5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、Agent、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "支付业务-大模型 AI Infra 研发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/c04677751e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、大模型；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放平台-产品体验设计师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/2975409107",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-AI Agent工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/bf57bb029a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "效率工具- 移动端产品经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/a0e5d39749",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据加速高级开发工程师(深圳/北京/上海/杭州）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/5312d239e0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI Search售前架构师",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/be197b6163",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 RAG、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI软件解决方案专家(FDE)（深圳/北京/上海）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/282a8b3121",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI 助手-高级产品经理（知识管理）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/d3c67e87b6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI 助手-AI评测产品经理（自动化评测与工具建设）（北京/深圳）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/ea5d7ba37d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "健康业务-医药行业售前解决方案架构师",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/2b168de1ee",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "部门-某实验室拓展经理-（北京/深圳）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/1dbe7762c6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D游戏场景地编",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/80b0fddec9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座AIGC算法研究员（世界模型基模方向）（北京/上海）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/5700dd570b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座多模态强化学习（RL）算法研究员（北京/上海）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/0573abd245",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 多模态、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UE客户端开发-玩法方向-应届生计划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9b20417e46",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D动作策略游戏动画导演",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9a55f03f1c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "文学主笔",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/747a831107",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务IP衍生品-渠道运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9903bcd79e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "智能湖仓研发工程师（上海/深圳）",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/79f032da2d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、RAG、多模态；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-AI游戏策划-世界模型",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9e5683fe73",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "支付业务-全栈开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/f62bf21f24",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 算法、系统设计；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI评测负责人（Agent/大模型方向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/58771932ee",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "手游-测试工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/8071695788",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某工作室-游戏音频策划-音效方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/ee334bbf56",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某技术中心-高级技术美术-PCG方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/25edddfcea",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "在研UE5射击手游-游戏测试开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/1a0d0c6d97",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某技术中心-强化学习开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/add1529e28",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 机器学习、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "在研3D动作游戏-游戏测试开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/6c018513b2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "在研项目-UE5微恐射击-宣发运营（IP/BD向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/7f682b3690",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "国风预研项目-资深2D场景设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/da40a50445",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-智慧零售-零售行业技术咨询架构师（FDE Consultant）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/1853ec347d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "预研游戏项目-高级游戏策划-休闲游戏玩法策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/1c33daceff",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "竞技射击手游-资深3D角色设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/f62f65927b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-UE特效设计师(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9b92bdef7b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "竞技射击手游-高级2D枪械原画设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/92a563a606",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "欢乐工作室-预研项目游戏战斗策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/17c38a5dff",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-资深角色原画设计师(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/2d2abca90f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技手游-游戏动作设计师（AI 辅助动画方向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/2c5ccc030a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技手游-3D特效设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/49d32120ad",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放世界-资深角色模型(上海)",
+   "companyName": "公司A",
+   "workCity": "杭州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/8612e4caa5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 杭州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技手游-3D角色模型（AI方向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/7f154ad254",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、Prompt；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务市场用户研究经理（动作线）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/30d8f34ff4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "战术竞技手游-3D特效设计师-重构",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/03d05ddf09",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D动作游戏后台开发-UE5 DS后台开发",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/6909613d8b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、高并发；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务市场用户研究经理（射击线）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/ed1cb97447",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "多平台动作搜打撤-高级3D特效设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/55cfaaff45",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "金融科技-国际业务风险管理专家",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/7f7dd2243f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UE5自研IP跨平台射击游戏-AI方向策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/f363f3d2af",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "即时通讯业务-大数据 Infra 开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/fea035d02a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、大模型、多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "高级内容经理-游戏内容发行",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/fcfcf27fa7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UE5自研IP跨平台射击游戏-游戏系统策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/b4325ce407",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "金铲铲之战-高级游戏运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/51b7b6503f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "游戏业务-多模态大模型算法研究员-动作生成方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/22958c36f5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "国际版-资深游戏视觉设计师",
+   "companyName": "公司A",
+   "workCity": "成都",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/a95abc9fbe",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go；具备 成都 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-AI Infra评测高级工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/e576b7496d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "掌上竞技射击游戏-Android客户端开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/5f051fa578",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "天美游戏-游戏产品战略经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/b45ebb3ccf",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "UE微恐轻动作项目-游戏研发PM",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/293978dcb8",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "公司A Cloud-Senior Channel Sales Manager",
+   "companyName": "公司A",
+   "workCity": "中国台湾",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/17f9831bd2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go；具备 中国台湾 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "公司A Cloud International -AI & LLM Solution Architect",
+   "companyName": "公司A",
+   "workCity": "中国香港",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/41ad5a847c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 LLM、RAG、Agent、Prompt；具备 中国香港 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-产品运营-服饰行业运营方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/d451166daa",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "次世代风格化场景原画设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/bb808de44d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "次世代风格化角色原画设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/bc9928b66d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "次世代风格化特效设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/7a76062cec",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某项目组-游戏主程序",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/8b0bb66f1b",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "孵化项目组-资深3D动画师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/458e496d49",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D动作策略游戏3D角色设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/c1a39f9e34",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "数据科学工程师-AB实验/因果推断",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/b6f737ee0d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电竞赛事策划经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/b7c6115ebb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "营销业务—教育/大健康行业负责人",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9e80266039",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座大模型推理加速工程师（北京/深圳）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/dcf8a94943",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、深度学习、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "Technology Platform-游戏引擎开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/da01332ba5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务高级 AIGC项目经理（大模型方向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/70339b33f7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "即时通讯业务电商-客户端开发工程师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/44bb7f83a2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "内容安全运营经理",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/f6606baeeb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "NoSQL存储研发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/6cce3ef8bc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务AI解决方案架构师-(成都/上海/深圳)",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/5d039d6826",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "孵化项目组-大世界车流策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/7fbaa021d1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "次世代风格化角色模型设计师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/9136b80d4c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务 AI-模型数据算法专家/负责人-数据方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/b8d56b0992",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务 AI-游戏模型数据专家-研发数据",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/331f4da2d9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务 AI-游戏模型评测专家",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-29",
+   "jobUrl": "https://jobs.example.com/src_a/263e9ae541",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务海外发行经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/723bfd52f0",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-后台开发-治理方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/b7981a92bc",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-应用研究工程师-交易治理方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/16dec987ff",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、RAG、Agent、多模态、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-数据科学-治理方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/665b528b29",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电商小店业务-生态治理产品运营-质检方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/67a507c3b7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "3D动作设计师-3C方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/0acf7570cd",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI infra研发工程师(北京/深圳)",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/be2b8e1cab",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "叙事策划（任务）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/4d6517a349",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "粒粒的小人国-游戏运营-数据分析",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/ccc4455b9d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "IM 产品-大模型应用研发工程师-（Agent Harness）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/82a9057f06",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、Prompt；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "即时通讯业务秒剪-大模型后端研发工程师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/e045a145a7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、Agent、多模态；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "视觉设计师（宣发向）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/a5ae3cbc7c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "具身大模型评测与数据工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/d6605ccc94",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go、大模型、多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某业务 AI-游戏模型数据专家-运营数据",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/8e2194b505",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "某工作室-特效TA",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/4a69864637",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业协同工具-AI产品经理-效率办公 AI",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/268ea78b08",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 可视化、大模型、Agent、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "投资者关系部-分析师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/91eaa1143d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座文本/多模态预训练框架研发工程师（深圳/北京/上海/杭州）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/4f75aaab17",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、大模型、多模态；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座Agent评测Infra工程师（北京/上海/深圳）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/acc20323f5",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小游戏业务-测试开发工程师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/ba5cf35722",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "视频业务-资深产品策划（商城B端供应链与IP授权方向）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/a5edf2e2f4",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Go；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "自研基座后台开发工程师（深圳/北京）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/35ad11cd01",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业协同工具-AI产品经理-智能文档",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/d32c573186",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "部门-数字文化产品运营（非遗方向）",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/395e544b3f",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小程序生态-跨端渲染引擎开发工程师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/ee982fe283",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "开放平台-大模型安全算法工程师",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/48772a784d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、大模型、LLM、Agent、多模态、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小程序生态-AI Agent 开发工程师-小工具",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/14b068d8ae",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、性能优化、大模型、Agent、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小程序生态-大模型infra工程师-Coding方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/fc2f8a021a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、大模型、LLM、Agent、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "零信任产品经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/3917f44039",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业协同工具-AI应用后台开发工程师-业务挖掘和应用（成都/北京）",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/9304c29f24",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 性能优化、大模型、LLM；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "异构适配与优化AI Agent研发工程师/专家（深圳/北京/上海）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/e503092efb",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小程序生态-大模型算法工程师-Coding方向",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/9c576ca0e7",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 小程序、大模型、Agent、算法；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "在研射击游戏研发项目经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/803c0fdac2",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "小游戏业务-平台产品经理-全球化",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/4fcae0f3aa",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作游戏-服务器开发工程师",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/d8712c7f18",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作游戏资深2D美宣原画",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/4fcf0479a3",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作方技术美术-角色材质渲染",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/7e06dd7baa",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作游戏数值策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/5a43e2487d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作游戏-海外业务合作与管理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/ca87acbede",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外合作游戏-中国区电竞经理/电竞负责人",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/2aeb9f19de",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "AI 助手-高级产品经理（基础框架）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/1a4c969b5a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "国服活动运营（内容传播）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/43fb82652a",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "海外宣发推广运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/7f95ff5a4e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "系统策划（烽火地带模式）",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/b932022e27",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "电竞宣发运营",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/793b3d85b1",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "服务器结构类采购商务经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/9bc0d1a121",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "手游-资深系统策划-商业化方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/ff3ad37c73",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "金融科技-反洗钱风控高级岗位",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/2efc00034c",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "客户端安全工程师",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/8dc72e0d2d",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "证券-产品经理-行情方向",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/d80cffff29",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、算法；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "云服务-国际业务项目经理-深圳/上海",
+   "companyName": "公司A",
+   "workCity": "上海",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/c275f5cb59",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 上海 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "营销业务-投放 Agent 产品专家-北京/深圳",
+   "companyName": "公司A",
+   "workCity": "北京",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/0b5be0c78e",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 Agent、算法；具备 北京 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "企业协同工具-AI应用后台开发工程师-AI大模型应用（成都/北京）",
+   "companyName": "公司A",
+   "workCity": "广州",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/5e04c65b72",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 大模型、LLM、RAG、算法、高并发；具备 广州 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "育碧合作业务-商务拓展经理",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/223230f1d6",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "系统策划",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/77288a60f9",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 系统设计；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  },
+  {
+   "jobName": "品牌创意专家",
+   "companyName": "公司A",
+   "workCity": "深圳",
+   "salaryMin": 0,
+   "salaryMax": 0,
+   "publishDate": "2026-10-28",
+   "jobUrl": "https://jobs.example.com/src_a/874f234b02",
+   "jobDescription": "【演示用 JD，非真实正文】岗位职责：参与产品研发与迭代，与产品、后端协作完成需求交付。任职要求：熟悉 通用研发能力；具备 深圳 办公条件，3 年以上相关经验者优先。"
+  }
+ ]
+}

@@ -90,6 +90,10 @@ cd frontend && npm install && npm run dev      # http://localhost:5199
 # 看板（构建）
 npm run build                                   # tsc 类型检查 + vite 构建
 
+# 采集管线（离线：读 fixtures/ 里的原始快照，不联网）
+python -m pipeline --offline --out data/_offline
+python -m pipeline --offline --out data/_offline --sync   # 顺带覆盖看板数据
+
 # Agent（没有 key 会自动用离线规划器）
 python -m agent ask "北京 55 分以上的 Agent 岗有哪些"
 python -m agent demo --offline                  # 跑一组示例，生成监控面板数据
@@ -99,7 +103,8 @@ python -m agent mcp                             # 启动 MCP server（stdio）
 python -m unittest discover -s tests -v
 ```
 
-不需要 key、不需要网络、不需要外部服务：`data/` 里的 JSON 就是全部输入。
+不需要 key、不需要网络、不需要外部服务：`data/` 里的 JSON 就是全部输入，
+`fixtures/` 里的 914 条原始记录够把采集→归一化→分类→打分→聚合整条链跑通。
 
 ---
 
@@ -108,11 +113,17 @@ python -m unittest discover -s tests -v
 前端只认数据契约，不认数据来源。三步替换：
 
 1. 复制 `config/sources.example.json` → `sources.json`，填你的 `listUrl` 与字段映射；
-2. 采集器产出符合 [`docs/DATA_CONTRACT.md`](docs/DATA_CONTRACT.md) 的 `stats.json`；
-3. 拷到 `frontend/public/data/`，刷新即用。
+2. 跑 `python -m pipeline --sources config/sources.json --out data/_live`，
+   产出符合 [`docs/DATA_CONTRACT.md`](docs/DATA_CONTRACT.md) 的 `stats.json` 与
+   `match_scores.json`；
+3. 拷到 `frontend/public/data/`（或加 `--sync` 自动拷），刷新即用。
+
+换一个招聘站只要改 `fieldMap`，不改代码——适配器只负责取原始记录，
+归一化 / 分类 / 打分都在后面的固定阶段里。
 
 画像同理：`config/profile.example.json` 改成自己的技能、目标城市、权重即可——
 规则通道按权重线性加权，LLM 通道把画像原文拼进 prompt。
+`dealBreakers` 是一票否决：命中即压到 12 分以下（在校生把「实习/校招/应届」删掉）。
 
 ---
 
@@ -162,19 +173,30 @@ python -m agent ask "..."  ──►  tools  ──►  data/agent_runs.json  �
 job-radar/
 ├── config/                       # 数据源 / 画像 / 脱敏映射（示例文件入库，真实映射不入库）
 ├── data/                         # 管线产物（演示数据，已脱敏）
+├── fixtures/                     # 914 条原始接口快照——离线跑管线的输入
 ├── docs/
 │   ├── PRD.md                    # 产品需求：目标 / Non-goals / 指标 / 风险
 │   ├── AGENT.md                  # Agent 模块设计 + 与目标 JD 的对应关系
 │   └── DATA_CONTRACT.md          # 四份 JSON 的字段契约——换数据源的唯一接口
-├── scripts/anonymize.py          # 数据脱敏与通用化脚本（含残留校验）
+├── scripts/
+│   ├── anonymize.py              # 数据脱敏与通用化脚本（含残留校验）
+│   └── build_fixtures.py         # 从演示数据反向生成原始接口快照
 ├── agent/                        # Agent 模块：工具 / ReAct 循环 / 轨迹 / MCP server
 │   ├── tools.py                  #   4 个确定性工具 + 参数白名单校验
 │   ├── loop.py                   #   LLM 通道与离线通道共用的循环
 │   ├── trace.py                  #   轨迹持久化与聚合（监控面板数据源）
 │   └── mcp_server.py             #   stdio JSON-RPC 的 MCP server
-├── tests/test_agent.py           # 39 个单元测试（工具契约 / 循环 / 聚合 / MCP 协议）
-├── pipeline/
-│   └── README.md                 # 采集器说明：为何外置、如何接
+├── pipeline/                     # 采集管线：适配器 / 归一化 / 分类 / 打分 / 聚合
+│   ├── adapters.py               #   fixture 与 json_list 两种数据源适配器
+│   ├── normalize.py              #   纯函数：城市 / 薪资 / 日期 / 技能 / 要求句
+│   ├── classify.py               #   标题优先的岗位分类 + 角色校准
+│   ├── heuristic_match.py        #   规则打分通道
+│   ├── llm_match.py              #   LLM 打分通道（失败自动降级）
+│   ├── aggregate.py              #   聚合出 stats.json
+│   └── README.md                 #   八个阶段各自的职责与已知局限
+├── tests/
+│   ├── test_agent.py             # 39 个用例（工具契约 / 循环 / 聚合 / MCP 协议）
+│   └── test_pipeline.py          # 57 个用例（归一化 / 分类 / 打分 / 适配器 / 聚合）
 └── frontend/
     ├── public/data/              # 前端可直接 fetch 的数据副本
     └── src/
@@ -183,7 +205,7 @@ job-radar/
         └── components/           # JobGalaxy / TopPicks / JobList / JobDrawer ...
 ```
 
-采集器代码独立于本仓库（见 `pipeline/README.md`），通过数据契约与看板解耦：
+管线与看板是两个独立进程，只通过 JSON 契约耦合（见 `docs/DATA_CONTRACT.md`）：
 两侧可以各自换语言、换部署方式，只要 JSON 结构不变。
 
 ---
@@ -277,10 +299,26 @@ python scripts/anonymize.py --map config/pii_map.local.json --verify    # 校验
    隐性要求。分数的相对排序可信，绝对值参考意义有限。
 3. **线上 Demo 是构建产物快照**：每次更新数据后需要重新构建并发布，采集任务尚未接入线上，
    所以页面上的数据会停在发布那一刻。
-4. **采集器不在本仓库内**（见 `pipeline/README.md`），仓库尚不完整可复现。
+4. **规则通道与 LLM 通道的分数不可比，分类分布也不一致**。同一批 913 条岗位：
+
+   | 指标 | LLM 通道 | 规则通道 |
+   |---|---|---|
+   | 分数中位数 / 均值 | 20 / 23.2 | 16 / 24.3 |
+   | ≥55 分占比 | 3.6% | 7.3% |
+   | `byType` 前端 / 全栈 / Agent / 其他 | 78 / 182 / 447 / 207 | 34 / 14 / 239 / 626 |
+
+   分数分布接近，但 `byType` 差得很远。查过原因：**参考数据里的 LLM 标签本身噪声很大**——
+   标成「全栈」的 182 条里，55% 的标题不含任何技术线索（`海外广告投放 | Go`、
+   `资深游戏视觉设计师 | Go`、`Channel Sales Manager | Go` 都被标成了全栈）；
+   标成「前端」的 78 条里有 28 条是运营/设计/数据分析岗。
+   规则分类器不追这个分布——它只认标题证据，判不出来就归「其他」。
+   两个 `meta` 字段用来区分来源：`meta.classifier = heuristic-title-v1`、`meta.source`。
 5. **岗位去重未做**：同一岗位多平台发布会计两条。
 6. **Agent 离线通道只认关键词**：没有 key 时由规则规划器兜底，理解不了「我适合转岗吗」这类
    语义问题；它的定位是「永远可用的降级」和「给 LLM 通道做对照」，不是替代。
+7. **fixtures 里的 JD 正文是合成的**：真实正文含公司业务信息不可公开，所以正文按标签合成
+   占位文本（明确标注「演示用 JD」）。字段、标签、城市、薪资都来自真实采集，
+   正文不是——别拿正文做结论。
 
 ---
 
@@ -289,7 +327,9 @@ python scripts/anonymize.py --map config/pii_map.local.json --verify    # 校验
 - [x] 部署为在线链接，手机随时可看
 - [ ] 采集任务接入线上，让 Demo 数据自动更新（Now）
 - [x] Agent 模块：工具调用循环 + MCP server + 运行监控面板
-- [ ] 采集器收进仓库 + 离线 fixture，做到 `python run.py --offline` 三分钟可复现（Now）
+- [x] 采集器收进仓库 + 离线 fixture，做到 `python -m pipeline --offline` 秒级可复现
+- [x] 规则打分通道（LLM 不可用时自动降级，两条通道同一契约）
+- [ ] 岗位去重：同一岗位多平台发布会计两条
 - [x] 打分引擎与前端核心逻辑的单测（Agent 层 39 个用例已覆盖）
 - [ ] LLM 通道全量覆盖，逐步替换规则分数（Now，待有效 API key）
 - [ ] 投递状态管理：待投 → 已投 → 笔试 → 面试 → offer，闭环成求职 CRM（Next）

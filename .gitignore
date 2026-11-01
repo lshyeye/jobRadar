@@ -13,6 +13,9 @@ config/pii_map.local.json
 
 # 本地采集产物（未脱敏，不入库）
 data/_raw/
+# 离线跑管线的输出（可复现，不需要入库；fixtures/ 才是要入库的输入）
+data/_offline/
+data/_live/
 *.log
 __pycache__/
 .venv/
